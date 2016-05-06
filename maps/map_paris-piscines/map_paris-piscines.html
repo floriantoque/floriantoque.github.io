@@ -7,7 +7,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 
-
 	<style>
   body { margin:0; padding:0; }
   #map { position:absolute; top:0; bottom:0; width:100%; }
@@ -32,7 +31,6 @@
 	<script src="geojs.js" type="text/javascript"></script>
 	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-
 	<script
 				  src="https://code.jquery.com/jquery-2.2.2.min.js"
 				  integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI="
@@ -148,6 +146,9 @@
 		m50_group.addTo(map);
 
 		L.control.layers(baseLayers, overlayMaps).addTo(map);
+
+
+
 
 
 		// fonction qui va être appliqué a chaque objet pour associé le popup
