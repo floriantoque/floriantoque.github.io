@@ -350,7 +350,7 @@ var data = {
         "city": "PARIS", 
         "name": "Piscine Dunois", 
         "address": "70, rue Dunois ", 
-        "visited": 0.0, 
+        "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
         "metre": "25", 
         "zipCode": "75013", 
