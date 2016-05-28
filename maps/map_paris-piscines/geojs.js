@@ -11,6 +11,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-alfred-nakache-4012", 
         "city": "PARIS", 
         "name": "Piscine Alfred Nakache", 
         "address": "4-12, rue D\u00e9noyez ", 
@@ -32,6 +33,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-armand-massard-2933", 
         "city": "PARIS", 
         "name": "Piscine Armand Massard", 
         "address": "66 boulevard du Montparnasse ", 
@@ -53,6 +55,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-aspirant-dunand-2931", 
         "city": "PARIS", 
         "name": "Piscine Aspirant Dunand", 
         "address": "20, rue Saillard ", 
@@ -74,6 +77,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-beaujon-17349", 
         "city": "Paris", 
         "name": "Piscine Beaujon", 
         "address": "7 All\u00e9e Louis de Fun\u00e8s", 
@@ -95,6 +99,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-bernard-lafay-2940", 
         "city": "PARIS", 
         "name": "Piscine Bernard Lafay", 
         "address": "79, rue de la Jonqui\u00e8re ", 
@@ -116,6 +121,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-bertrand-dauvin-2942", 
         "city": "PARIS", 
         "name": "Piscine Bertrand Dauvin", 
         "address": "12, rue Ren\u00e9 Binet ", 
@@ -137,6 +143,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-blomet-2934", 
         "city": "PARIS", 
         "name": "Piscine Blomet", 
         "address": "17, rue Blomet ", 
@@ -158,6 +165,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-catherine-lagatu-ex-parmentier-5041", 
         "city": "PARIS", 
         "name": "Piscine Catherine Lagatu ex Parmentier", 
         "address": "155 avenue Parmentier", 
@@ -179,6 +187,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-champerret-2941", 
         "city": "PARIS", 
         "name": "Piscine Champerret", 
         "address": "36, boulevard de Reims ", 
@@ -200,10 +209,11 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-chateau-des-rentiers-2928", 
         "city": "PARIS", 
         "name": "Piscine Ch\u00e2teau des Rentiers", 
         "address": "184, rue du Ch\u00e2teau des Rentiers ", 
-        "visited": 0.0, 
+        "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
         "metre": "25", 
         "zipCode": "75013", 
@@ -221,6 +231,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-chateau-landon-2923", 
         "city": "PARIS", 
         "name": "Piscine Ch\u00e2teau-Landon", 
         "address": "31, rue du ch\u00e2teau-Landon ", 
@@ -242,6 +253,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-dauteuil-3324", 
         "city": "PARIS", 
         "name": "Piscine d'Auteuil", 
         "address": "1, Route des Lacs \u00e0 Passy", 
@@ -263,6 +275,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-de-la-butte-aux-cailles-2927", 
         "city": "PARIS", 
         "name": "Piscine de la Butte aux Cailles", 
         "address": "5, place Paul Verlaine", 
@@ -284,6 +297,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-de-la-cour-des-lions-2925", 
         "city": "PARIS", 
         "name": "Piscine de la Cour des Lions", 
         "address": "9, rue Alphonse Baudin ", 
@@ -305,6 +319,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-des-amiraux-2944", 
         "city": "PARIS", 
         "name": "Piscine des Amiraux", 
         "address": "6, rue Hermann Lachapelle ", 
@@ -326,6 +341,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-didot-2932", 
         "city": "PARIS", 
         "name": "Piscine Didot", 
         "address": "22, avenue Georges Lafenestre ", 
@@ -347,6 +363,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-dunois-2929", 
         "city": "PARIS", 
         "name": "Piscine Dunois", 
         "address": "70, rue Dunois ", 
@@ -368,6 +385,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-edouard-pailleron-2945", 
         "city": "PARIS", 
         "name": "Piscine Edouard Pailleron", 
         "address": "32, rue Edouard Pailleron ", 
@@ -389,6 +407,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-emile-anthoine-2935", 
         "city": "PARIS", 
         "name": "Piscine Emile Anthoine", 
         "address": "9, rue Jean Rey ", 
@@ -410,6 +429,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-georges-drigny-2920", 
         "city": "PARIS", 
         "name": "Piscine Georges Drigny", 
         "address": "18, rue Bochart de Saron ", 
@@ -431,6 +451,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-georges-hermant-2948", 
         "city": "PARIS", 
         "name": "Piscine Georges Hermant", 
         "address": "8-10, rue David d'Angers", 
@@ -452,6 +473,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-georges-rigal-2924", 
         "city": "PARIS", 
         "name": "Piscine Georges Rigal", 
         "address": "115, boulevard de Charonne ", 
@@ -473,6 +495,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-georges-vallerey-2949", 
         "city": "PARIS", 
         "name": "Piscine Georges-Vallerey", 
         "address": "148, avenue Gambetta ", 
@@ -494,6 +517,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-hebert-2943", 
         "city": "Paris", 
         "name": "Piscine H\u00e9bert", 
         "address": "2, rue des Fillettes", 
@@ -515,6 +539,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-henry-de-montherlant-2939", 
         "city": "PARIS", 
         "name": "Piscine Henry de Montherlant", 
         "address": "30, boulevard Lannes ", 
@@ -536,6 +561,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-jean-boiteux-ex-reuilly-2926", 
         "city": "PARIS", 
         "name": "Piscine Jean Boiteux ex Reuilly", 
         "address": "13, rue H\u00e9nard ", 
@@ -557,6 +583,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-jean-taris-3325", 
         "city": "PARIS", 
         "name": "Piscine Jean Taris", 
         "address": "16, rue Thouin", 
@@ -578,6 +605,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-josephine-baker-2930", 
         "city": "PARIS", 
         "name": "Piscine Jos\u00e9phine-Baker", 
         "address": "quai Fran\u00e7ois Mauriac", 
@@ -599,6 +627,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-keller-2936", 
         "city": "PARIS", 
         "name": "Piscine Keller", 
         "address": "14, rue de l'Ing\u00e9nieur Robert-Keller", 
@@ -620,6 +649,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-la-plaine-2937", 
         "city": "PARIS", 
         "name": "Piscine La Plaine", 
         "address": "13, rue du G\u00e9n\u00e9ral Guillaumat ", 
@@ -641,6 +671,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-mathis-2946", 
         "city": "PARIS", 
         "name": "Piscine Mathis", 
         "address": "15, rue Mathis ", 
@@ -662,6 +693,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-paul-valeyre-2921", 
         "city": "PARIS", 
         "name": "Piscine Paul Valeyre", 
         "address": "24, rue de Rochechouart", 
@@ -683,6 +715,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-pontoise-2918", 
         "city": "PARIS", 
         "name": "Piscine Pontoise", 
         "address": "19, rue de Pontoise", 
@@ -704,6 +737,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-rene-et-andre-mourlon-2938", 
         "city": "PARIS", 
         "name": "Piscine Ren\u00e9 et Andr\u00e9 Mourlon", 
         "address": "19, rue Gaston de Caillavet ", 
@@ -725,6 +759,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-roger-le-gall-2950", 
         "city": "PARIS", 
         "name": "Piscine Roger Le Gall", 
         "address": "34, boulevard Carnot ", 
@@ -746,6 +781,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-rouvet-2947", 
         "city": "PARIS", 
         "name": "Piscine Rouvet", 
         "address": "1, rue Rouvet ", 
@@ -767,6 +803,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-saint-germain-2919", 
         "city": "PARIS", 
         "name": "Piscine Saint-Germain", 
         "address": "12, rue Lobineau ", 
@@ -788,10 +825,11 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-saint-merri-2", 
         "city": "PARIS", 
         "name": "Piscine Saint-Merri", 
         "address": "16 rue du renard", 
-        "visited": 0.0, 
+        "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
         "metre": "25", 
         "zipCode": "75004", 
@@ -809,6 +847,7 @@ var data = {
       }, 
       "type": "Feature", 
       "properties": {
+        "website": "http://equipement.paris.fr/piscine-suzanne-berlioux-les-halles-2916", 
         "city": "PARIS", 
         "name": "Piscine Suzanne Berlioux (Les Halles)", 
         "address": "forum des Halles", 
