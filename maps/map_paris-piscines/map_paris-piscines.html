@@ -64,7 +64,7 @@
 		var m25=[];
 
 		for (i = 0 ; i < data.features.length ; i++){
-			var popupContent = "<a href='"+data.features[i].properties["website"]+"'>"+"<b><u> " +data.features[i].properties["name"] + ": </u> </b> </a>"
+			var popupContent = "<a target='_blank' href='"+data.features[i].properties["website"]+"'>"+"<b><u> " +data.features[i].properties["name"] + ": </u> </b> </a>"
 												+ "<br><br><b>Adresse: </b>"+data.features[i].properties["address"]
 												+ "<br><b>Longueur: </b>"+data.features[i].properties["metre"] + "M"
 												+ "<br><b>Tél: </b>"+data.features[i].properties["phone"];
