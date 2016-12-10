@@ -6,19 +6,19 @@ var data = {
         "type": "Point", 
         "coordinates": [
           2.378612, 
-          48.871498
+          48.871497999999995
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-alfred-nakache-4012", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Alfred Nakache", 
         "address": "4-12, rue D\u00e9noyez ", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75020", 
+        "metre": 25, 
+        "zipCode": 75020, 
         "phone": "01 58 53 57 80", 
         "id": 0
       }
@@ -28,19 +28,19 @@ var data = {
         "type": "Point", 
         "coordinates": [
           2.323341, 
-          48.844036
+          48.844035999999996
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-armand-massard-2933", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Armand Massard", 
         "address": "66 boulevard du Montparnasse ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "33", 
-        "zipCode": "75015", 
+        "metre": 33, 
+        "zipCode": 75015, 
         "phone": "01 45 38 65 19", 
         "id": 1
       }
@@ -56,13 +56,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-aspirant-dunand-2931", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Aspirant Dunand", 
         "address": "20, rue Saillard ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75014", 
+        "metre": 25, 
+        "zipCode": 75014, 
         "phone": "01 53 90 24 70", 
         "id": 2
       }
@@ -83,8 +83,8 @@ var data = {
         "address": "7 All\u00e9e Louis de Fun\u00e8s", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75008", 
+        "metre": 25, 
+        "zipCode": 75008, 
         "phone": "01 53 53 23 33", 
         "id": 3
       }
@@ -94,19 +94,19 @@ var data = {
         "type": "Point", 
         "coordinates": [
           2.318883, 
-          48.894707
+          48.894707000000004
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-bernard-lafay-2940", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Bernard Lafay", 
         "address": "79, rue de la Jonqui\u00e8re ", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75017", 
+        "metre": 25, 
+        "zipCode": 75017, 
         "phone": "01 42 26 11 05", 
         "id": 4
       }
@@ -115,20 +115,20 @@ var data = {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.342513, 
+          2.3425130000000003, 
           48.899296
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-bertrand-dauvin-2942", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Bertrand Dauvin", 
         "address": "12, rue Ren\u00e9 Binet ", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75018", 
+        "metre": 25, 
+        "zipCode": 75018, 
         "phone": "01 44 92 73 42", 
         "id": 5
       }
@@ -137,20 +137,20 @@ var data = {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.307422, 
+          2.3074220000000003, 
           48.843323
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-blomet-2934", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Blomet", 
         "address": "17, rue Blomet ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "50", 
-        "zipCode": "75015", 
+        "metre": 50, 
+        "zipCode": 75015, 
         "phone": "01 47 83 35 05", 
         "id": 6
       }
@@ -166,13 +166,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-catherine-lagatu-ex-parmentier-5041", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Catherine Lagatu ex Parmentier", 
         "address": "155 avenue Parmentier", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75010", 
+        "metre": 25, 
+        "zipCode": 75010, 
         "phone": "01 42 45 44 28", 
         "id": 7
       }
@@ -188,13 +188,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-champerret-2941", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Champerret", 
         "address": "36, boulevard de Reims ", 
         "visited": 1.0, 
         "categorie_name": "Piscines conc\u00e9d\u00e9es", 
-        "metre": "25", 
-        "zipCode": "75017", 
+        "metre": 25, 
+        "zipCode": 75017, 
         "phone": "01 47 66 49 98", 
         "id": 8
       }
@@ -204,19 +204,19 @@ var data = {
         "type": "Point", 
         "coordinates": [
           2.3619, 
-          48.830406
+          48.830405999999996
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-chateau-des-rentiers-2928", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Ch\u00e2teau des Rentiers", 
         "address": "184, rue du Ch\u00e2teau des Rentiers ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75013", 
+        "metre": 25, 
+        "zipCode": 75013, 
         "phone": "01 45 85 18 26", 
         "id": 9
       }
@@ -232,13 +232,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-chateau-landon-2923", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Ch\u00e2teau-Landon", 
         "address": "31, rue du ch\u00e2teau-Landon ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75010", 
+        "metre": 25, 
+        "zipCode": 75010, 
         "phone": "01 55 26 90 35", 
         "id": 10
       }
@@ -248,19 +248,19 @@ var data = {
         "type": "Point", 
         "coordinates": [
           2.26038931586913, 
-          48.8569791019021
+          48.856979101902105
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-dauteuil-3324", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine d'Auteuil", 
         "address": "1, Route des Lacs \u00e0 Passy", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75016", 
+        "metre": 25, 
+        "zipCode": 75016, 
         "phone": "01 42 24 07 59", 
         "id": 11
       }
@@ -276,13 +276,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-de-la-butte-aux-cailles-2927", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine de la Butte aux Cailles", 
         "address": "5, place Paul Verlaine", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "33", 
-        "zipCode": "75013", 
+        "metre": 33, 
+        "zipCode": 75013, 
         "phone": "01 45 89 60 05", 
         "id": 12
       }
@@ -298,13 +298,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-de-la-cour-des-lions-2925", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine de la Cour des Lions", 
         "address": "9, rue Alphonse Baudin ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75011", 
+        "metre": 25, 
+        "zipCode": 75011, 
         "phone": "01 43 55 09 23", 
         "id": 13
       }
@@ -320,13 +320,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-des-amiraux-2944", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine des Amiraux", 
         "address": "6, rue Hermann Lachapelle ", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "33", 
-        "zipCode": "75018", 
+        "metre": 33, 
+        "zipCode": 75018, 
         "phone": "01 46 06 46 47", 
         "id": 14
       }
@@ -342,13 +342,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-didot-2932", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Didot", 
         "address": "22, avenue Georges Lafenestre ", 
-        "visited": 0.0, 
+        "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75014", 
+        "metre": 25, 
+        "zipCode": 75014, 
         "phone": "01 45 39 89 29", 
         "id": 15
       }
@@ -358,19 +358,19 @@ var data = {
         "type": "Point", 
         "coordinates": [
           2.366437, 
-          48.832973
+          48.832972999999996
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-dunois-2929", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Dunois", 
         "address": "70, rue Dunois ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75013", 
+        "metre": 25, 
+        "zipCode": 75013, 
         "phone": "01 45 85 44 81", 
         "id": 16
       }
@@ -386,13 +386,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-edouard-pailleron-2945", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Edouard Pailleron", 
         "address": "32, rue Edouard Pailleron ", 
         "visited": 1.0, 
         "categorie_name": "Piscines conc\u00e9d\u00e9es", 
-        "metre": "33", 
-        "zipCode": "75019", 
+        "metre": 33, 
+        "zipCode": 75019, 
         "phone": "01 40 40 27 70", 
         "id": 17
       }
@@ -408,13 +408,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-emile-anthoine-2935", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Emile Anthoine", 
         "address": "9, rue Jean Rey ", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75015", 
+        "metre": 25, 
+        "zipCode": 75015, 
         "phone": "01 53 69 61 59", 
         "id": 18
       }
@@ -430,13 +430,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-georges-drigny-2920", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Georges Drigny", 
         "address": "18, rue Bochart de Saron ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75009", 
+        "metre": 25, 
+        "zipCode": 75009, 
         "phone": "01 45 26 86 93", 
         "id": 19
       }
@@ -452,13 +452,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-georges-hermant-2948", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Georges Hermant", 
         "address": "8-10, rue David d'Angers", 
-        "visited": 0.0, 
+        "visited": 1.0, 
         "categorie_name": "Piscines conc\u00e9d\u00e9es", 
-        "metre": "50", 
-        "zipCode": "75019", 
+        "metre": 50, 
+        "zipCode": 75019, 
         "phone": "01 53 38 49 30", 
         "id": 20
       }
@@ -468,19 +468,19 @@ var data = {
         "type": "Point", 
         "coordinates": [
           2.394056, 
-          48.856609
+          48.856609000000006
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-georges-rigal-2924", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Georges Rigal", 
         "address": "115, boulevard de Charonne ", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75011", 
+        "metre": 25, 
+        "zipCode": 75011, 
         "phone": "01 44 93 28 18", 
         "id": 21
       }
@@ -496,13 +496,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-georges-vallerey-2949", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Georges-Vallerey", 
         "address": "148, avenue Gambetta ", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "50", 
-        "zipCode": "75020", 
+        "metre": 50, 
+        "zipCode": 75020, 
         "phone": "01 40 31 15 20", 
         "id": 22
       }
@@ -523,8 +523,8 @@ var data = {
         "address": "2, rue des Fillettes", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75018", 
+        "metre": 25, 
+        "zipCode": 75018, 
         "phone": "01 55 26 84 90", 
         "id": 23
       }
@@ -540,13 +540,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-henry-de-montherlant-2939", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Henry de Montherlant", 
         "address": "30, boulevard Lannes ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75016", 
+        "metre": 25, 
+        "zipCode": 75016, 
         "phone": "01 40 72 28 30", 
         "id": 24
       }
@@ -562,13 +562,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-jean-boiteux-ex-reuilly-2926", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Jean Boiteux ex Reuilly", 
         "address": "13, rue H\u00e9nard ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75012", 
+        "metre": 25, 
+        "zipCode": 75012, 
         "phone": "01 40 02 08 08", 
         "id": 25
       }
@@ -578,19 +578,19 @@ var data = {
         "type": "Point", 
         "coordinates": [
           2.34794139999997, 
-          48.8447257
+          48.844725700000005
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-jean-taris-3325", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Jean Taris", 
         "address": "16, rue Thouin", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75005", 
+        "metre": 25, 
+        "zipCode": 75005, 
         "phone": "01 55 42 81 90", 
         "id": 26
       }
@@ -600,19 +600,19 @@ var data = {
         "type": "Point", 
         "coordinates": [
           2.3773645, 
-          48.8341088
+          48.834108799999996
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-josephine-baker-2930", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Jos\u00e9phine-Baker", 
         "address": "quai Fran\u00e7ois Mauriac", 
         "visited": 1.0, 
         "categorie_name": "Piscines conc\u00e9d\u00e9es", 
-        "metre": "25", 
-        "zipCode": "75013", 
+        "metre": 25, 
+        "zipCode": 75013, 
         "phone": "01 56 61 96 50", 
         "id": 27
       }
@@ -628,13 +628,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-keller-2936", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Keller", 
         "address": "14, rue de l'Ing\u00e9nieur Robert-Keller", 
         "visited": 1.0, 
         "categorie_name": "Piscines conc\u00e9d\u00e9es", 
-        "metre": "50", 
-        "zipCode": "75015", 
+        "metre": 50, 
+        "zipCode": 75015, 
         "phone": "01 45 71 81 00", 
         "id": 28
       }
@@ -650,13 +650,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-la-plaine-2937", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine La Plaine", 
         "address": "13, rue du G\u00e9n\u00e9ral Guillaumat ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75015", 
+        "metre": 25, 
+        "zipCode": 75015, 
         "phone": "01 45 32 34 00", 
         "id": 29
       }
@@ -672,13 +672,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-mathis-2946", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Mathis", 
         "address": "15, rue Mathis ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75019", 
+        "metre": 25, 
+        "zipCode": 75019, 
         "phone": "01 40 34 51 00", 
         "id": 30
       }
@@ -694,13 +694,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-paul-valeyre-2921", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Paul Valeyre", 
         "address": "24, rue de Rochechouart", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75009", 
+        "metre": 25, 
+        "zipCode": 75009, 
         "phone": "01 42 85 27 61", 
         "id": 31
       }
@@ -709,20 +709,20 @@ var data = {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.35158160000003, 
+          2.3515816000000296, 
           48.849236
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-pontoise-2918", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Pontoise", 
         "address": "19, rue de Pontoise", 
         "visited": 1.0, 
         "categorie_name": "Piscines conc\u00e9d\u00e9es", 
-        "metre": "33", 
-        "zipCode": "75005", 
+        "metre": 33, 
+        "zipCode": 75005, 
         "phone": "01 55 42 77 88", 
         "id": 32
       }
@@ -738,13 +738,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-rene-et-andre-mourlon-2938", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Ren\u00e9 et Andr\u00e9 Mourlon", 
         "address": "19, rue Gaston de Caillavet ", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75015", 
+        "metre": 25, 
+        "zipCode": 75015, 
         "phone": "01 45 75 40 02", 
         "id": 33
       }
@@ -760,13 +760,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-roger-le-gall-2950", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Roger Le Gall", 
         "address": "34, boulevard Carnot ", 
         "visited": 1.0, 
         "categorie_name": "Piscines conc\u00e9d\u00e9es", 
-        "metre": "50", 
-        "zipCode": "75012", 
+        "metre": 50, 
+        "zipCode": 75012, 
         "phone": "01 44 73 81 12", 
         "id": 34
       }
@@ -775,20 +775,20 @@ var data = {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.385029, 
+          2.3850290000000003, 
           48.893188
         ]
       }, 
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-rouvet-2947", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Rouvet", 
         "address": "1, rue Rouvet ", 
         "visited": 0.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "33", 
-        "zipCode": "75019", 
+        "metre": 33, 
+        "zipCode": 75019, 
         "phone": "01 40 36 40 97", 
         "id": 35
       }
@@ -804,13 +804,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-saint-germain-2919", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Saint-Germain", 
         "address": "12, rue Lobineau ", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75006", 
+        "metre": 25, 
+        "zipCode": 75006, 
         "phone": "01 56 81 25 40", 
         "id": 36
       }
@@ -826,13 +826,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-saint-merri-2", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Saint-Merri", 
         "address": "16 rue du renard", 
         "visited": 1.0, 
         "categorie_name": "Piscines municipales", 
-        "metre": "25", 
-        "zipCode": "75004", 
+        "metre": 25, 
+        "zipCode": 75004, 
         "phone": "01 42 72 29 45", 
         "id": 37
       }
@@ -848,13 +848,13 @@ var data = {
       "type": "Feature", 
       "properties": {
         "website": "http://equipement.paris.fr/piscine-suzanne-berlioux-les-halles-2916", 
-        "city": "PARIS", 
+        "city": "Paris", 
         "name": "Piscine Suzanne Berlioux (Les Halles)", 
         "address": "forum des Halles", 
         "visited": 1.0, 
         "categorie_name": "Piscines conc\u00e9d\u00e9es", 
-        "metre": "50", 
-        "zipCode": "75001", 
+        "metre": 50, 
+        "zipCode": 75001, 
         "phone": "01 42 36 36 82", 
         "id": 38
       }
