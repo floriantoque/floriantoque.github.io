@@ -1,6 +1,6 @@
-#Personal Website - Florian Toqué - 2016
+# Florian Toqué - Personal website (2019)
 
- template from [Start Bootstrap](http://startbootstrap.com/) - [Modern Business](http://startbootstrap.com/template-overviews/modern-business/)
+Template from [Start Bootstrap](http://startbootstrap.com/) 
 
-## url of the website:
+## Website:
 <a href="http://floriantoque.github.io">floriantoque.github.io</a>
